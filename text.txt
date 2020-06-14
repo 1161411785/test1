@@ -2,18 +2,12 @@
 将该git工程作为其他项目的子模块进行使用
 新增一行
 新增两行
-<<<<<<< HEAD
-新增三行
-新增四行 branch - three
-新增四行
-新增五行 three
-新增六行 three
-
-=======
 新增三行 修改第三行 three
 新增四行
 新增五行 three
 新增六行 three
 新增七行 three
 新增八行 three
->>>>>>> three
+新增九行 four
+
+
